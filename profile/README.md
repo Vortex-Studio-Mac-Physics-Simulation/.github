@@ -1,7 +1,7 @@
 # Vortex Studio Mac Download – High-Fidelity Physics Simulation for macOS
 
 <div align="center">
-<img src="https://seekvectorlogo.com/wp-content/uploads/2019/05/vortex-studio-vector-logo.png" alt="Vortex Studio Mac Logo" width="300">
+<img src="https://iconape.com/wp-content/png_logo_vector/vortex.png" alt="Vortex Studio Mac Logo" width="300">
 </div>
 
 <div align="center">
